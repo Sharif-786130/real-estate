@@ -3,7 +3,7 @@ import About from "../pages/About.jsx";
 import HowItWorks from "../pages/HowItWorks.jsx";
 import Contact from "../pages/Contact.jsx";
 import Signup from "../pages/Signup.jsx";
-import NotFound from "../pages/NotFound.jsx";
+
 import Login from "../pages/Login.jsx";
 import Features from "../pages/Features.jsx";
 
@@ -45,7 +45,7 @@ const routes = [
   { path: PATHS.contact, element: <Contact /> },
   { path: PATHS.login, element: <Login /> },
   { path: PATHS.signup, element: <Signup /> },
-  { path: "*", element: <NotFound /> },
+
 ];
 
 export default routes;
