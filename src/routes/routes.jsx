@@ -5,7 +5,7 @@ import Contact from "../pages/Contact.jsx";
 import Signup from "../pages/Signup.jsx";
 import NotFound from "../pages/NotFound.jsx";
 import Login from "../pages/Login.jsx";
-import Features from "../pages/features.jsx";
+import Features from "../pages/Features.jsx";
 
 
 /**
